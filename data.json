@@ -1,0 +1,37 @@
+{
+    "perfect": [
+        { "img": "./src/assets/image-3.svg" },
+        { "img": "./src/assets/image-2.svg" },
+        { "img": "./src/assets/image-1.png" }
+    ],
+    "destination": [
+        { "img": "./src/assets/island.png", "ville": "Island" },
+        { "img": "./src/assets/bangalore.png", "ville": "Bangalore" },
+        { "img": "./src/assets/kabini.png", "ville": "Kabini" },
+        { "img": "./src/assets/coorg.png", "ville": "Coorg" },
+        { "img": "./src/assets/lonavala.png", "ville": "Lonavala" },
+        { "img": "./src/assets/mumbay.png", "ville": "Mumbai" },
+        { "img": "./src/assets/goa.png", "ville": "Goa" },
+        { "img": "./src/assets/ooty.png", "ville": "Ooty" }
+
+    ],
+    "feeling": [
+        { "info": "24,000", "text_info": "Travel Experiences", "img": "./src/assets/Vector(1).svg" },
+        { "info": "55+", "text_info": "Countries", "img": "./src/assets/Vector.svg" },
+        { "info": "Best Price", "text_info": "Guaranteed", "img": "./src/assets/Group6.svg" },
+        { "info": "84 Million+", "text_info": "User per year", "img": "../src/assets/icomoon-free_users.png" }
+    ],
+    "travel": [
+        { "img": "./src/assets/MaskGroup1.png", "text": "Beautiful luxury outdoor swimming pool hotel resort", "location": "Bangalore" },
+        { "img": "./src/assets/MaskGroup.png", "text": "Patio balcony with chair around sea ocean view", "location": "Island" },
+        { "img": "./src/assets/MaskGroup2.png", "text": "athletic man floats red boat river", "location": "South East Asia" },
+        { "img": "./src/assets/MaskGroup3.png", "text": "Beautiful hikers top mountain view", "location": "Himalayan" }
+
+    ],
+    "partner": [
+        { "img": "../assets/lara.png ", "name": "Lara Nosworthy" },
+        { "img": "../assets/alana.png ", "name": "Alana Baldessin" },
+        { "img": "../assets/emma.png ", "name": "Emma Fritzsche" },
+        { "img": "../assets/joel.png ", "name": "Joel Lynas" }
+    ]
+}

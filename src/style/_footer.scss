@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.foot_pg {
+    max-width: 400px;
+    opacity: 0.5;
+}
+
+.footer {
+    ul {
+        color: #000;
+        li {
+            line-height: 25px;
+            a {
+                color: #000;
+            }
+        }
+    }
+}
+
+.title_foot {
+    padding-bottom: 10px;
+}
+
+.logo {
+    padding-bottom: 10px;
+    opacity: 1;
+}
+
+.socialMedia {
+    padding-top: 10px;
+}

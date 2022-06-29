@@ -1,0 +1,35 @@
+.destination {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-evenly;
+    grid-row-gap: 40px;
+    padding-bottom: 100px;
+}
+
+.pays {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.pays_pg {
+    padding-left: 20px;
+}
+
+destination {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: space-evenly;
+    grid-row-gap: 40px;
+    padding-bottom: 100px;
+}
+
+.pays {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.pays_pg {
+    padding-left: 20px;
+}
