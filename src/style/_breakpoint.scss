@@ -161,29 +161,6 @@ $grid-breakpoint-md: 992px;
     cursor: pointer;
 }
 
-
-/* .view {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    @include breakpoint(desktop) {
-        background-color: #f24822;
-        max-width: 100px;
-        height: 40px;
-        text-align: center;
-        margin-top: auto;
-        margin-bottom: auto;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        .view_pg {
-            color: #fff;
-            background-color: transparent;
-            border: none;
-        }
-    }
-} */
-
 .next {
     display: none;
     @include breakpoint(desktop) {
